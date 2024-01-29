@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CFT_Test</string>
+    <string name="title">Title</string>
+    <string name="firstname">FirstName</string>
+    <string name="name">Name</string>
+    <string name="userlastname">UserLastName</string>
+    <string name="address">Address</string>
+    <string name="phone_number">+7 911 233 55 65</string>
+    <string name="something_went_wrong_retry">Something went wrong. Retry</string>
+    <string name="retry">Retry</string>
+    <string name="user_id">User id</string>
+    <string name="user_s_email">User\'s email</string>
+    <string name="user_s_login">User\'s Login</string>
+    <string name="user_s_age">User\'s age</string>
+    <string name="cell_phone">Cell Phone</string>
+    <string name="user_s_id">User\'s id</string>
+    <string name="user_s_nat">User\'s nat</string>
+    <string name="user_s_registered_date">User\'s registered date</string>
+    <string name="greeting">Here is info about me :)</string>
+    <string name="body_is_null">body is null</string>
+    <string name="share_email">Share email</string>
+    <string name="share_phone">Share phone</string>
+    <string name="user_latitude">User Latitude</string>
+    <string name="user_longtitude">User Longtitude</string>
+    <string name="slash">/</string>
+    <string name="user_coords">User Coords</string>
+    <string name="share_coordinates">Share coordinates</string>
+    <string name="open_in_google_maps">Open in google maps</string>
+    <string name="data_loading_error">Ошибка загрузки данных</string>
+</resources>
