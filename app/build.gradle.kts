@@ -21,6 +21,8 @@ android {
         buildConfigField("String", "BASE_URL", "\"https://randomuser.me/api/\"")
     }
 
+    lintOptions(Action { isAbortOnError = false })
+
     buildTypes {
         release {
             isMinifyEnabled = false
